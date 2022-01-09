@@ -9,4 +9,4 @@ Naturally these are my own experiences and perspectives so am open to all commen
 Lastly as with all things, knowledge and approaches always evolve over time so some of the steps and retries
 and refinements will also be covered.
 
-As topics written they will be added here. The first being some notes on "starting out".
+As topics are written they will be added here. The first being some notes on "starting out".
