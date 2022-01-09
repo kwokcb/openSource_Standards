@@ -41,9 +41,11 @@ class MyClass
 }
 ```
 
-2. Documentation
+## 2. Documentation
 
 Probably something folks thing less about is what convention should be used for documentation. 
+
+### 2.1 Code
 
 Code documentation can generally be generated using something like doxygen of which there are 
 many different format variables possible. What format is being used is less important than
@@ -56,18 +58,23 @@ or not. If not then determine is it worth to document extensively -- maybe not. 
 like an `add` function can require minimal documentation such as "This function adds two vectors together",
 where the actually argument documentation can be skipped.
 
+### 2.2 Design / Specifications
+
 Then comes documentation which is at a higher level -- and generally not generated.
 There can be many forms to eventually ship the documentation to. There are a large number of
-free converters between formats which are for the most part non-lossy. For documents which
+free converters between formats which are for the most part non-lossy. One which handles
+a fairly large number of formats is `pandoc` For documents which
 require scientific formulas you can go "old-school" and use Latex for which there are utilities
 to convert.
 
 The decision is then what will be your target format. Markdown and markup are some easy to use choices as there are
-plug-ins to various editors like Visual Studio Code or Atom which allow for WYSIWYG. 
+plug-ins to various editors like `Visual Studio Code` or `Atom` which allow for WYSIWYG. 
 
 Some documentation such as design or standards specifications tend to not be in this format
-as these generally need to go over review and iteration with various collaborators and certain
-utilities are better for this. Some choices include using things like Google Docs and Confluence (wiki)
-can be used. 
+as these generally need to go over live review and iteration with various collaborators and certain
+utilities are better for this. Some choices include using things like `Google Docs` and `Confluence (wiki)`
+can be used. Naturally these can be exported when "finalized".
 
-As for accompanying diagrams and images there are also a number of good free tools there. 
+### 2.3 Making it visual
+
+As for accompanying diagrams and images there are also a number of good free tools there. To be continued...
