@@ -25,6 +25,8 @@ Assuming you know your scope, then I refer you to the article about some suggest
 
 ....to continue...
 
+![image](https://user-images.githubusercontent.com/49369885/149637211-f1ab2b1d-0588-40f1-a7e0-d81583781e8f.png)
+
 # Boards
 
 ![image](https://user-images.githubusercontent.com/49369885/149637182-f8a8b485-c562-4032-9a3d-8ce93d9528f1.png)
