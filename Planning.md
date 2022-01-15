@@ -24,3 +24,7 @@ This can be a proposal to do some piece of work or it could be something like a 
 Assuming you know your scope, then I refer you to the article about some suggestions on how to document it. github has a built in "issues" section for each repo with native MarkDown support to for descriptions.
 
 ....to continue...
+
+# Boards
+
+![image](https://user-images.githubusercontent.com/49369885/149637182-f8a8b485-c562-4032-9a3d-8ce93d9528f1.png)
