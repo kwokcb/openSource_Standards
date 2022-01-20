@@ -1,3 +1,5 @@
+Version 1: January 19, 2022
+
 # Exposure and Tracking of Contributions
 
 Depending on the site your working and the complexity you
