@@ -10,3 +10,6 @@ Lastly as with all things, knowledge and approaches always evolve over time so s
 As topics are written they will be referenced here.
 
 **Disclaimer**: *The views, thoughts, and opinions expressed in the any text in this repo belong solely to the author, and not necessarily to the author's employer, organization, committee or other group or individual. The author is not affilitaed with nor endorsing any of the products or services mentioned in any content in this repo.*
+
+- [Following the "Syntax" of a Repo](Starting_Syntax.md)
+- [Raising and Tracking Issues](Starting_Syntax.md)
