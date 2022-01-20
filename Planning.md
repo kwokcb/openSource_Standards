@@ -54,5 +54,6 @@ Note that you can connect to issues across repos if for example your issue is ke
 
 # Summary
 To summarize, find the tooling that the repo owner suggests and use it. If inflexible, then you can fork to keep track of additional information.
-Keep stuff human readable and local -- which means learing some MarkDown or html.
+Keep stuff human readable and local -- which means learning some MarkDown or html if your using github :).
+
 
