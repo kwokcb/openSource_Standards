@@ -1,0 +1,38 @@
+<h1>Exposure and Tracking of Contributions</h1>
+<p>Version 1: January 19, 2022</p>
+<p>Depending on the site your working and the complexity you
+will probably want to keep track of issues and tasks.</p>
+<p>In this article, we'll take a look at this using <code>github</code> which has progressively been trying to provide more "tooling" in this area. We will keep things as
+simple as possible by using all tooling available locally to the repo.</p>
+<h1>Issues</h1>
+<p>A common way to track a "work item" is to create an <code>issue</code> for this.</p>
+<p>This can be a proposal to do some piece of work or it could be something like a fix to a defect you've encountered. Once logged than it's open for feedback and discussion.</p>
+<p>Assuming you know your scope, then I refer you to the article about some suggestions on how to document it. <code>github</code> has a built in "issues" section for each repo with native <code>MarkDown</code> support for descriptions. Using this instead of
+an external attached file allows for a straight-forward and easilty readable way
+to work with others. </p>
+<p>Below is a snapshot from this repo showing some example issues. Categorization /
+labels, project association and milestones are some ways to organize. And of course
+assignement let's folks your actually doing the work.</p>
+<p><img alt="image" src="https://user-images.githubusercontent.com/49369885/149637211-f1ab2b1d-0588-40f1-a7e0-d81583781e8f.png" /></p>
+<p>In many cases issues can be logged but the additional meta-data may not be
+entered unless the repo owner adds them in. It does not hurt to suggest this :).</p>
+<p>One alternative is to keep track of issues in your own fork -- which gives you full control. In this case you can cross reference the original repo's issue with your fork onw.</p>
+<h1>Synchronization Multiple Tracking Systems</h1>
+<p>Using <code>github</code> to track issues for a given repo is fairly common. Unfortunately in some cases you may have to contend with multiple tracking systems. This can come up if your working for a company contributing open source but may have it's own tracking system.  </p>
+<p>One example is a company JIRA and a public github repo. One rule-of-thumb
+folks can use is, where is the "ground-truth". This should the public location.
+If you fork from a repo, then you can keep this public in your own fork.</p>
+<h1>Projects and Boards</h1>
+<p>Depending on the number of issues you may have and the requirement to see things holistically, <code>github</code> itself has the ability to do things like create projects and associated planning boards (Kanban). There are also third party tools
+for this, but as noted this keeps all tracking in one place.</p>
+<p>Below is an example of the above issues shown in various states. For convenenience
+using tool which allows you to associate commits (pull requiests or PRs) with issues along with automated state tracking should make things very simple.</p>
+<p><img alt="image" src="https://user-images.githubusercontent.com/49369885/149637182-f8a8b485-c562-4032-9a3d-8ce93d9528f1.png" /></p>
+<p>Of course you'll need to associate your commit with an issue, which is simple
+to do by adding the appropriate <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue">Markdown references or manually linking</a>. </p>
+<p>Note that you can connect to issues across repos if for example your issue is kept in your own fork.</p>
+<h1>Summary</h1>
+<p>To summarize, find the tooling that the repo owner suggests and use it. If inflexible, then you can fork to keep track of additional information.
+Keep stuff human readable and local -- which means learning some MarkDown or html if your using github :).</p>
+
+
